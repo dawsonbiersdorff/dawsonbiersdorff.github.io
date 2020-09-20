@@ -1,8 +1,7 @@
-## Welcome to GitHub Pages
+## Welcome to my page.
+I made this for my CS-HU 250 class at Boise State and it's actually really cool.
 
-You can use the [editor on GitHub](https://github.com/dawsonbiersdorff/dawsonbiersdorff.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+I can make all kinds of edits that I like and maybe even add the projects I do throughout the years.
 
 ### Markdown
 
